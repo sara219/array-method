@@ -2,7 +2,7 @@
 
 const salad = ['🍅', '🍄', '🥦', '🥒', '🌽', '🥕', '🥑'];
 
-// ? find the of length
+// ? find the length
 let lengthOfArray = salad.length
 console.log(lengthOfArray);   //!7
 
